@@ -2,7 +2,7 @@ using System.Text;
 using Microsoft.Extensions.Compliance.Classification;
 using Microsoft.Extensions.Compliance.Redaction;
 
-namespace Meeze.Classfications;
+namespace Web.Classfications;
 
 public static class MyClassifications
 {

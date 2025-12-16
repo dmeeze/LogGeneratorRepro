@@ -2,8 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Compliance.Redaction;
 
-//TODO : Switch here to repro fault
-using Meeze.Classfications;
+using Web.Classfications;
 
 // nb: error occurs when the "Web" part here matches the root of the classification attribute namespace. 
 namespace Meeze.Web.App;
